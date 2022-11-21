@@ -1,0 +1,29 @@
+Custom Textpad:
+1.First Start Screen consists of (Login and Password) and (New User)
+2. Second Start screen consists of three options 
+	a.Story
+	b.Diary
+	c.Idea
+3.Selecting redirects to the custom page
+4.Each module consists of the following
+	a.Story:
+		1.Title
+		2.Genre
+		3.Start Writing
+	b.Diary:
+		1.Date:
+		2.Place:
+		3.Start Writing
+	c.Idea:
+		1.Name:
+		2.Context:
+			a.Random
+			b.other-->if other then provide a textbox to name the idea
+		3.Start Writing
+5.Once the module is loaded:
+	a.The top bar consists of the following:
+		1.GOTO
+			A.SAVE
+			B.NEW-->REDIRECTS TO THE START SCREEN AFTER ASKING TO SAVE OR NOT.
+		2.UPLOAD TO DRIVE
+		3.Send As Mail.which if selected asks the file to be sent to the respective mail id.

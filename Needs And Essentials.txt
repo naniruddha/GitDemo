@@ -1,0 +1,43 @@
+Shirts:
+ Formals: 4 -- PLAIN
+ Casuals: 2 -- Patterns
+Pants:
+ Formals: 2 -- Ash, someother color
+ Jeans: 2 -- slim fit
+T-Shirts:
+ 2 
+Night Pants:
+ 3
+Shorts:
+ 1
+Cheddis:
+ 3
+Banians:
+ 2
+
+Sports Shoe.
+Formals Shoe.
+Socks- 4 pairs.
+Slippers.
+
+Dermacon-- 2 Tubes.
+Calpol Sheet.
+Digene.
+Zandu Balm.
+Yeldopar.
+
+2 Round Combs.
+1 Rolling Comb.
+1 Perfume.
+1 Trimmer.
+
+1 Sweater.--- Biege Color
+
+5 towels
+1 Toothpaste, 1 Soap, 1 Brush, 1 Tongue Cleaner.
+
+1 Mobile Phone
+1 Charger
+1 Power Bank
+1 Ear Phones
+
